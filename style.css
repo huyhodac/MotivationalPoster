@@ -1,0 +1,30 @@
+html {
+    background-color:black;
+  }
+
+  h1 {
+    font-family: 'Libre Baskerville', serif;
+    color:white;
+    text-align: center;
+    align-content:center;
+    text-transform:uppercase;
+    margin-bottom:10px;
+  }
+
+  p {
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    text-align:center;
+  }
+
+  #lemon {
+    width:100%;
+    border: white 5px solid;
+  }
+
+  .poster {
+    width:50%;
+    margin-left:25%;
+    margin-top:100px;
+    color: white;
+  }
